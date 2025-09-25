@@ -1,7 +1,7 @@
 # aText Mac – Text Expansion and Automation Tool for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/41211/m/atext-logo.webp?v=1667815340" alt="aText Logo" width="256" height="256">  
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_25abf029bcd70c0410f2720dbb95dc4b/atext.png" alt="aText Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -27,7 +27,7 @@ Key features include:
 
 aText is compatible with **macOS Sonoma, Ventura, Monterey, and older versions**, and runs natively on both Intel and Apple Silicon Macs. Its lightweight design ensures it won’t slow down your system, even with thousands of snippets.
 
-![aText Interface](https://static.macupdate.com/screenshots/353840/m/phpeohqjo-screenshot.png?v=1715583462)
+![aText Interface](https://www.trankynam.com/atext/screenshots/mac/sync.png)
 
 ---
 
